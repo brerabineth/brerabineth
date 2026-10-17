@@ -20,5 +20,6 @@ the suite so far:
 - [tarot](https://github.com/brerabineth/tarot) — read the package before it reads you. static pre-install triage for npm artifacts. zig.
 - [necropsy](https://github.com/brerabineth/necropsy) — the binary post-mortem kit. static triage for ELF, PE and Mach-O. nim.
 - [wraith](https://github.com/brerabineth/wraith) — audits the extensions already living in your browser. manifest risk model + js pattern scan. c++.
+- [mimic](https://github.com/brerabineth/mimic) — scan the content before your agent swallows it. static triage for indirect prompt injection. java, zero deps.
 
 no socials. no DMs. the work is the identity.
