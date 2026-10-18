@@ -21,5 +21,6 @@ the suite so far:
 - [necropsy](https://github.com/brerabineth/necropsy) — the binary post-mortem kit. static triage for ELF, PE and Mach-O. nim.
 - [wraith](https://github.com/brerabineth/wraith) — audits the extensions already living in your browser. manifest risk model + js pattern scan. c++.
 - [mimic](https://github.com/brerabineth/mimic) — scan the content before your agent swallows it. static triage for indirect prompt injection. java, zero deps.
+- [helminth](https://github.com/brerabineth/helminth) — parasite triage for npm machines: worm artifacts, planted persistence, credentials within reach. ruby, one file.
 
 no socials. no DMs. the work is the identity.
