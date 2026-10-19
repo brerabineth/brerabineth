@@ -22,5 +22,6 @@ the suite so far:
 - [wraith](https://github.com/brerabineth/wraith) — audits the extensions already living in your browser. manifest risk model + js pattern scan. c++.
 - [mimic](https://github.com/brerabineth/mimic) — scan the content before your agent swallows it. static triage for indirect prompt injection. java, zero deps.
 - [helminth](https://github.com/brerabineth/helminth) — parasite triage for npm machines: worm artifacts, planted persistence, credentials within reach. ruby, one file.
+- [seance](https://github.com/brerabineth/seance) — the network speaks for the dead machine. beaconing, DNS tunneling and C2 artifacts from a pcap. perl, one file, no deps.
 
 no socials. no DMs. the work is the identity.
