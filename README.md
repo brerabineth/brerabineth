@@ -24,5 +24,6 @@ the suite so far:
 - [helminth](https://github.com/brerabineth/helminth) — parasite triage for npm machines: worm artifacts, planted persistence, credentials within reach. ruby, one file.
 - [seance](https://github.com/brerabineth/seance) — the network speaks for the dead machine. beaconing, DNS tunneling and C2 artifacts from a pcap. perl, one file, no deps.
 - [effigy](https://github.com/brerabineth/effigy) — a shortcut that looks like a document is an effigy of it. static triage for windows .lnk droppers: encoded payloads, icon masquerade, tracker droids. c#, single binary.
+- [palimpsest](https://github.com/brerabineth/palimpsest) — read the text under the text. static audit for MCP servers: description poisoning, cross-server shadowing, rug pulls caught by a description baseline. lua, one file, zero deps.
 
 no socials. no DMs. the work is the identity.
