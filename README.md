@@ -26,5 +26,6 @@ the suite so far:
 - [effigy](https://github.com/brerabineth/effigy) — a shortcut that looks like a document is an effigy of it. static triage for windows .lnk droppers: encoded payloads, icon masquerade, tracker droids. c#, single binary.
 - [palimpsest](https://github.com/brerabineth/palimpsest) — read the text under the text. static audit for MCP servers: description poisoning, cross-server shadowing, rug pulls caught by a description baseline. lua, one file, zero deps.
 - [dirge](https://github.com/brerabineth/dirge) — the bell for the dead letter. offline .eml triage: header forensics, url risk, attachment traps, exit codes a pipeline can gate on. ocaml, one native binary.
+- [ossuary](https://github.com/brerabineth/ossuary) — the layers remember. static triage for container images: secrets that survived a later `rm`, build-history abuse, config posture, dockerfile audits. d, one native binary.
 
 no socials. no DMs. the work is the identity.
