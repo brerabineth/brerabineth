@@ -29,5 +29,8 @@ the suite so far:
 - [ossuary](https://github.com/brerabineth/ossuary) — the layers remember. static triage for container images: secrets that survived a later `rm`, build-history abuse, config posture, dockerfile audits. d, one native binary.
 - [grimoire](https://github.com/brerabineth/grimoire) — a book of hidden spells. static triage for hostile documents: remote template injection, DDE fields, XLM sheets, Ole10Native packages, vba deobfuscation with payload re-scan, embedded-artifact carving. crystal, one native binary.
 
+- [barbican](https://github.com/brerabineth/barbican) — read the wall before the siege. static audit for nginx and caddy configs: rewrite traversal, legacy tls, header inheritance traps. ada, one native binary.
+- [coven](https://github.com/brerabineth/coven) — the circle of jobs around one cauldron; one of them is always a witch. static triage for github actions workflows: expression injection, pwn requests, history scraping, mutable third-party refs. haskell, one binary.
+
 no socials. no DMs. the work is the identity.
 
