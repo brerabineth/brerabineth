@@ -32,5 +32,7 @@ the suite so far:
 - [barbican](https://github.com/brerabineth/barbican) — read the wall before the siege. static audit for nginx and caddy configs: rewrite traversal, legacy tls, header inheritance traps. ada, one native binary.
 - [coven](https://github.com/brerabineth/coven) — the circle of jobs around one cauldron; one of them is always a witch. static triage for github actions workflows: expression injection, pwn requests, history scraping, mutable third-party refs. haskell, one binary.
 
+- [vetala](https://github.com/brerabineth/vetala) — the spirit that lives in dead binaries. nineteen-instrument static dissection suite for elf/pe/mach-o: header-to-entropy probe, x86/x64 disassembler, vt-compatible imphash, crypto constants, carve, diff, dossiers. pascal, one zero-dependency binary.
+
 no socials. no DMs. the work is the identity.
 
