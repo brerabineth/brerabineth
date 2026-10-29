@@ -34,5 +34,7 @@ the suite so far:
 
 - [vetala](https://github.com/brerabineth/vetala) — the spirit that lives in dead binaries. nineteen-instrument static dissection suite for elf/pe/mach-o: header-to-entropy probe, x86/x64 disassembler, vt-compatible imphash, crypto constants, carve, diff, dossiers. pascal, one zero-dependency binary.
 
+- [requiem](https://github.com/brerabineth/requiem) - a rite for what the breach left behind. static triage for hostile php: webshells, planted backdoors, persistence traps. php, zero extensions, one file.
+
 no socials. no DMs. the work is the identity.
 
