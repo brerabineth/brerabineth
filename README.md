@@ -36,5 +36,7 @@ the suite so far:
 
 - [requiem](https://github.com/brerabineth/requiem) - a rite for what the breach left behind. static triage for hostile php: webshells, planted backdoors, persistence traps. php, zero extensions, one file.
 
+- [skeleton](https://github.com/brerabineth/skeleton) — find the keys an intruder left in the lock. first-hour ssh artifact autopsy: authorized_keys backdoors, weakened configs, known_hosts ghosts, planted identities. f#, one self-contained binary.
+
 no socials. no DMs. the work is the identity.
 
