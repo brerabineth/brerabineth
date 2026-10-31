@@ -38,5 +38,8 @@ the suite so far:
 
 - [skeleton](https://github.com/brerabineth/skeleton) — find the keys an intruder left in the lock. first-hour ssh artifact autopsy: authorized_keys backdoors, weakened configs, known_hosts ghosts, planted identities. f#, one self-contained binary.
 
+
+- [dybbuk](https://github.com/brerabineth/dybbuk) - the possessing spirit in the editor. static triage for vsix packages: invisible unicode payloads, shipped credentials, c2-shaped endpoints, capability claims. elixir, one file, zero deps.
+
 no socials. no DMs. the work is the identity.
 
