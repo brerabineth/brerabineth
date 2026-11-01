@@ -43,5 +43,7 @@ the suite so far:
 
 - [draugr](https://github.com/brerabineth/draugr) - the corpse that walks again. offline autostart autopsy for windows hosts: registry hives and scheduled tasks, twenty-seven checks. tcl, one file, zero deps.
 
+- [barrow](https://github.com/brerabineth/barrow) - the barrow holds what the dead were buried with. offline autopsy of git repositories: clone-time hooks and filters, config weapons, alternates, secrets in history. erlang, one file, zero deps.
+
 no socials. no DMs. the work is the identity.
 
