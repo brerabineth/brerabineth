@@ -41,5 +41,7 @@ the suite so far:
 
 - [dybbuk](https://github.com/brerabineth/dybbuk) - the possessing spirit in the editor. static triage for vsix packages: invisible unicode payloads, shipped credentials, c2-shaped endpoints, capability claims. elixir, one file, zero deps.
 
+- [draugr](https://github.com/brerabineth/draugr) - the corpse that walks again. offline autostart autopsy for windows hosts: registry hives and scheduled tasks, twenty-seven checks. tcl, one file, zero deps.
+
 no socials. no DMs. the work is the identity.
 
